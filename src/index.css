@@ -42,6 +42,10 @@ body {
     @apply text-blue hover:underline cursor-pointer flex items-center text-xl opacity-0 translate-y-20;
   }
 
+  .control-btn {
+    @apply ml-4 p-4 rounded-full bg-gray-300 backdrop-blur flex-center;
+  }
+
   .common-padding {
     @apply sm:py-32 py-20 sm:px-10 px-5;
   }
@@ -76,5 +80,9 @@ body {
 
   .hiw-bigtext {
     @apply text-white text-3xl md:text-5xl font-normal md:font-semibold my-2;
+  }
+
+  .video-carousel_container {
+    @apply relative sm:w-[70vw] w-[88vw] md:h-[70vh] sm:h-[50vh] h-[35vh];
   }
 }
