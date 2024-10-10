@@ -2,7 +2,9 @@
 
 ## 🤖 Introduction
 
-This project is a clone of Apple's iPhone 15 Pro website, built using React.js and TailwindCSS. It showcases the effective use of GSAP (Greensock Animations) for smooth transitions and Three.js for rendering 3D models of the iPhone 15 Pro in various colors and sizes. The project provides an immersive and engaging experience that mirrors the aesthetic and interactive qualities of Apple's product page.
+This project is a clone of Apple's iPhone 15 Pro website, built using React.js and TailwindCSS. It showcases the effective use of GSAP (Greensock Animations) for smooth transitions and Three.js for rendering 3D models of the iPhone 15 Pro in various colors and sizes. The project provides an immersive and engaging experience that mirrors the aesthetic and interactive qualities of Apple iPhone 15's product page. [Live Demo](https://iphone-dutta.netlify.app).
+
+![Apple iPhone Website UI](./public/homepage-ui.png)
 
 ## ⚙️ Tech Stack
 
